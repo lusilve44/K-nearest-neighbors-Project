@@ -1,1 +1,2 @@
-# Template for Machine Learning projects
+# K-Nearest-Neighbors Project
+Here we are experimenting with the Knn algorithm, as well as creating a simple recommendation system based on the fundaments of the classification given by the algorithm itself.
